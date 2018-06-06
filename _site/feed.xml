@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digital health namespaces</title>
+    <title>Digital Health Namespaces for NZ</title>
     <description>FHIR Standards for NZ localisation: namespaces, identifiers, and codesets
 </description>
     <link>http://standards.digital.health.nz/</link>
     <atom:link href="http://standards.digital.health.nz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jun 2018 21:56:51 +1200</pubDate>
-    <lastBuildDate>Wed, 06 Jun 2018 21:56:51 +1200</lastBuildDate>
+    <pubDate>Wed, 06 Jun 2018 22:14:10 +1200</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 22:14:10 +1200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
