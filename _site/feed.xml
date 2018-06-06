@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>FHIR namespaces</title>
+    <description>FHIR Standards for NZ localisation: namespaces, identifiers, and codesets
 </description>
-    <link>https://fhir-nz.github.io/</link>
-    <atom:link href="https://fhir-nz.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jun 2018 17:20:35 +1200</pubDate>
-    <lastBuildDate>Wed, 06 Jun 2018 17:20:35 +1200</lastBuildDate>
+    <link>http://standards.digital.health.nz/</link>
+    <atom:link href="http://standards.digital.health.nz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jun 2018 18:10:19 +1200</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 18:10:19 +1200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 06 Jun 2018 13:05:48 +1200</pubDate>
-        <link>https://fhir-nz.github.io/jekyll/update/2018/06/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://fhir-nz.github.io/jekyll/update/2018/06/06/welcome-to-jekyll.html</guid>
+        <link>http://standards.digital.health.nz/jekyll/update/2018/06/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://standards.digital.health.nz/jekyll/update/2018/06/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
