@@ -7,12 +7,11 @@
 
 # Site settings
 title: FHIR namespaces
-#email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   FHIR Standards for NZ localisation: namespaces, identifiers, and codesets
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://standards.digital.health.nz" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
 github_username:  FHIR-NZ
 
 # Build settings
