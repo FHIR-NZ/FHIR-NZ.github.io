@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  nhi-number
+title:  NHI Number
 permalink: id/nhi
 ---
 Namespace value
