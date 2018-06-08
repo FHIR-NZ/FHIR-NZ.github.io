@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  nhi-number
-permalink: namespace/nhi-number
+permalink: id/nhi
 ---
 Namespace value
 ---------------
 ```````````````````````````````````````````````````````
-http://standards.digital.health.nz/namespace/nhi-number
+https://standards.digital.health.nz/id/nhi
 ```````````````````````````````````````````````````````
 
 Type

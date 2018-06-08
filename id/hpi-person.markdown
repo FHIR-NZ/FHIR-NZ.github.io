@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  hpi-person-id
-permalink: namespace/hpi-person-id
+permalink: id/hpi-person
 ---
 Namespace value
 ---------------
 ``````````````````````````````````````````````````````````
-http://standards.digital.health.nz/namespace/hpi-person-id
+https://standards.digital.health.nz/id/hpi-person-id
 ``````````````````````````````````````````````````````````
 
 Type
