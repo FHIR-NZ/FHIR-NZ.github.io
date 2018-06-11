@@ -6,7 +6,7 @@ permalink: codesystem/ethnic-group-level-2
 Codesystem URI
 ---------------
 ```````````````````````````````````````````````````````
-https://standards.digital.health.nz/codesystem/ethic-group-level-2
+https://standards.digital.health.nz/codesystem/ethnic-group-level-2
 ```````````````````````````````````````````````````````
 
 Type
