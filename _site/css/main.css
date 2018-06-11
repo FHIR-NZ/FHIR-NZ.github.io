@@ -42,6 +42,10 @@ div.hiso-logo {
   width: 35%;
   float: right; }
 
+td {
+  width: 50%;
+  border-bottom: 1px solid #ddd; }
+
 /**
  * Figures
  */
