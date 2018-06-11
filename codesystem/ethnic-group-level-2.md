@@ -3,7 +3,7 @@ layout: page
 title:  Ethnicity level 2 codesystem
 permalink: codesystem/ethnic-group-level-2
 ---
-Codesystem URL
+Codesystem URI
 ---------------
 ```````````````````````````````````````````````````````
 https://standards.digital.health.nz/codesystem/ethic-group-level-2
