@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Ethnicity level 2 codesystem
+title:  Ethnic group level 2 code system
 permalink: codesystem/ethnic-group-level-2
 ---
 URI

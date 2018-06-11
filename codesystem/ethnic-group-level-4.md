@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Ethnicity level 4 codesystem
+title:  Ethnic group level 4 code system
 permalink: codesystem/ethnic-group-level-4
 ---
 URI
