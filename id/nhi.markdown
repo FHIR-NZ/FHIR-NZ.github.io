@@ -3,15 +3,15 @@ layout: page
 title:  NHI Number
 permalink: id/nhi
 ---
-Namespace value
+URI
 ---------------
 ```````````````````````````````````````````````````````
 https://standards.digital.health.nz/id/nhi
 ```````````````````````````````````````````````````````
 
-Type
+Namespace type
 ----
-Identifier Namespace
+Identifier
 
 Description
 -----------

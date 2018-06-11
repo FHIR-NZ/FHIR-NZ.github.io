@@ -3,13 +3,13 @@ layout: page
 title:  Ethnicity level 2 codesystem
 permalink: codesystem/ethnic-group-level-2
 ---
-Codesystem URI
+URI
 ---------------
 ```````````````````````````````````````````````````````
 https://standards.digital.health.nz/codesystem/ethnic-group-level-2
 ```````````````````````````````````````````````````````
 
-Type
+Namespace type
 ----
 Codesystem
 

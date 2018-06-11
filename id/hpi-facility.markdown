@@ -3,15 +3,15 @@ layout: page
 title:  HPI Facility ID
 permalink: id/hpi-facility
 ---
-Namespace value
+URI
 ---------------
 ``````````````````````````````````````````````````````````
 https://standards.digital.health.nz/id/hpi-facility
 ``````````````````````````````````````````````````````````
 
-Type
+Namespace type
 ----
-Identifier Namespace
+Identifier
 
 Description
 -----------

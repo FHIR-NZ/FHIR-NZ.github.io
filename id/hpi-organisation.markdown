@@ -3,15 +3,15 @@ layout: page
 title:  HPI Organisation ID
 permalink: id/hpi-organisation
 ---
-Namespace value
+URI
 ---------------
 ``````````````````````````````````````````````````````````
 https://standards.digital.health.nz/id/hpi-organisation
 ``````````````````````````````````````````````````````````
 
-Type
+Namespace type
 ----
-Identifier Namespace
+Identifier
 
 Description
 -----------
