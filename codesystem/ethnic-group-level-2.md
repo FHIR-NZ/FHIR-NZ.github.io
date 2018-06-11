@@ -15,7 +15,7 @@ Codesystem
 
 Description
 -----------
-The level 2 ethnicity classifiation is a two-digit grouping. It includes six '9' series codes. For more information about the ethnicity data protocols for collecting, recording, and using data on the ethnicity of people treated by the NZ health and disability sector see the [2017 Ethnicity Data Protocol](https://www.health.govt.nz/publication/hiso-100012017-ethnicity-data-protocols).
+The ethnicity classification codes are sourced from Stats NZ's Ethnicity New Zealand Standard Classifications 2005 v2.0. For more information about the protocols for collecting, recording, and using data on the ethnicity of people treated by the NZ health and disability sector see the [HISO 10001:2017 Ethnicity Data Protocols](https://www.health.govt.nz/publication/hiso-100012017-ethnicity-data-protocols).
 
 Table of codes
 -----------
