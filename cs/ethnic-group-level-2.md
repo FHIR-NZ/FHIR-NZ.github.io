@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  Ethnic group level 2 code system
-permalink: codesystem/ethnic-group-level-2
+permalink: cs/ethnic-group-level-2
 ---
 URI
 ---------------
 ```````````````````````````````````````````````````````
-https://standards.digital.health.nz/codesystem/ethnic-group-level-2
+https://standards.digital.health.nz/cs/ethnic-group-level-2
 ```````````````````````````````````````````````````````
 
 Namespace type
