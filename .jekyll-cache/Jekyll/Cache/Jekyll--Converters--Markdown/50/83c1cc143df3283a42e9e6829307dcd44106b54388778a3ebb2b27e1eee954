@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ethnic group level 4 code system</title>
-  <meta name="description" content="Digital Health Standards for NZ namespaces, identifiers, and codesets
-">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://standards.digital.health.nz/codesystem/ethnic-group-level-4">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="/">standards.digital.health.nz</a>
-    <div class="hiso-logo">
-        <img src="https://standards.digital.health.nz/assets/hiso-logo.png" alt ="hiso logo">
-    </div>
-    </nav>
-  </div>
-</header>
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Ethnic group level 4 code system</h1>
-  </header>
-
-  <div class="post-content">
-    <h2 id="uri">URI</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://standards.digital.health.nz/codesystem/ethnic-group-level-4
+I"'X<h2 id="uri">URI</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://standards.digital.health.nz/cs/ethnic-group-level-4
 </code></pre></div></div>
 
 <h2 id="namespace-type">Namespace type</h2>
@@ -802,34 +764,4 @@
     </tr>
   </tbody>
 </table>
-
-  </div>
-
-</article>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>standards.digital.health.nz</li>
-          <li><a href="mailto:"></a></li>
-        </ul>
-      </div>
-      <div class="footer-col footer-col-2">
-      </div>
-      <div class="footer-col footer-col-3">
-        <p>Digital Health Standards for NZ namespaces, identifiers, and codesets
-</p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-    
-  </body>
-
-</html>
+:ET

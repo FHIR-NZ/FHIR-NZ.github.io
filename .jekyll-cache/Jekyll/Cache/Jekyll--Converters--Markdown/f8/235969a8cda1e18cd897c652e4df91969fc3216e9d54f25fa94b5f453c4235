@@ -1,0 +1,97 @@
+I"!<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chiropractic Board Register number</td>
+      <td>https://standards.digital.health.nz/ns/chiropractic-board-id</td>
+    </tr>
+    <tr>
+      <td>Dental Council Register Number</td>
+      <td>https://standards.digital.health.nz/ns/dental-council-id</td>
+    </tr>
+    <tr>
+      <td>Dietitians Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/dietitians-board-id</td>
+    </tr>
+    <tr>
+      <td>HPI facilities</td>
+      <td>https://standards.digital.health.nz/ns/hpi-facility-id</td>
+    </tr>
+    <tr>
+      <td>HPI organizations</td>
+      <td>https://standards.digital.health.nz/ns/hpi-organisation-id</td>
+    </tr>
+    <tr>
+      <td>HPI PractitionerRole id</td>
+      <td>https://standards.digital.health.nz/ns/hpi-practitionerrole-id</td>
+    </tr>
+    <tr>
+      <td>HPI providers</td>
+      <td>https://standards.digital.health.nz/ns/hpi-person-id</td>
+    </tr>
+    <tr>
+      <td>Medical Council of New Zealand Register Number</td>
+      <td>https://standards.digital.health.nz/ns/medical-council-id</td>
+    </tr>
+    <tr>
+      <td>Medical Laboratory Science Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/medical-laboratory-science-board-id</td>
+    </tr>
+    <tr>
+      <td>Medical Radiation Technologists Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/medical-radiation-technologists-board-id</td>
+    </tr>
+    <tr>
+      <td>Midwifery Council Register Number</td>
+      <td>https://standards.digital.health.nz/ns/midwifery-council-id</td>
+    </tr>
+    <tr>
+      <td>New Zealand Business Number</td>
+      <td>https://standards.digital.health.nz/ns/hpi-nzbn</td>
+    </tr>
+    <tr>
+      <td>NHI number</td>
+      <td>https://standards.digital.health.nz/ns/nhi-id</td>
+    </tr>
+    <tr>
+      <td>Nursing Council of New Zealand Register Number</td>
+      <td>https://standards.digital.health.nz/ns/nursing-council-id</td>
+    </tr>
+    <tr>
+      <td>Occupational Therapy Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/occupational-therapy-board-id</td>
+    </tr>
+    <tr>
+      <td>Optometrists &amp; Dispensing Opticians Board Register Number</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Osteopathic Council Register Number</td>
+      <td>https://standards.digital.health.nz/ns/osteopathic-council-id</td>
+    </tr>
+    <tr>
+      <td>Pharmacy Council of New Zealand Register Number</td>
+      <td>https://standards.digital.health.nz/ns/pharmacy-council-id</td>
+    </tr>
+    <tr>
+      <td>Physiotherapy Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/physiotherapy-board-id</td>
+    </tr>
+    <tr>
+      <td>Podiatrists Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/podiatrists-board-id</td>
+    </tr>
+    <tr>
+      <td>Psychologists Board Register Number</td>
+      <td>https://standards.digital.health.nz/ns/psychologists-board-id</td>
+    </tr>
+  </tbody>
+</table>
+:ET
