@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  HPI Facility ID
-permalink: id/hpi-facility
+permalink: ns/hpi-facility
 ---
 URI
 ---------------
 ``````````````````````````````````````````````````````````
-https://standards.digital.health.nz/id/hpi-facility
+https://standards.digital.health.nz/ns/hpi-facility-id
 ``````````````````````````````````````````````````````````
 
 Namespace type
